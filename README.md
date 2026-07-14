@@ -1,4 +1,4 @@
-# Sentiment Analysis with Python
+# SentiSense: Sentiment Analysis with Python
 
 Understanding the sentiment and characteristics of textual data is essential in many fields, including business intelligence, social media monitoring, and customer feedback analysis. Manually processing large collections of text is often inefficient, particularly when the data is unstructured. This Python-based sentiment analysis project automates the entire workflow, enabling faster and more consistent text evaluation.
 
@@ -10,4 +10,3 @@ The application reads textual data from an Excel dataset, retrieves the primary 
 
 Python, CSV/Excel data processing, Natural Language Processing (NLP), data preprocessing, data wrangling, text mining, sentiment analysis, and linguistic feature extraction.
 
-# Link for Live Demo: 
